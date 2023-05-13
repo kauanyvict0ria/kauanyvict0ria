@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <a href="https://github.com/{{username}}">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username={{username}}&show_icons=true&theme=blank&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{username}}&layout=compact&langs_count=7&theme=blank"/>
+  <a href="https://github.com/{{kauanyvict0ria}}">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?kauanyvict0ria={{kauanyvict0ria}}}&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?kauanyvict0ria={{kauanyvict0ria}}&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Kauany-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Kauany-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Kauany-TYPESCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="Nome-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />       
 </div>
   
@@ -37,6 +36,6 @@ Here are some ideas to get you started:
   <a href = "mailto:{{kauanyvict0ria}}.kauany.cmachado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/{{username}}/{{username}}/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/{{kauanyvict0ria}}/{{kauanyvict0ria}}/blob/output/github-contribution-grid-snake.svg)
   
 </div>
